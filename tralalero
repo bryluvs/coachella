@@ -1,0 +1,20 @@
+-- Tralalero Tralala
+return {[1]={surface={Top="Smooth";Front="Smooth";Bottom="Smooth";Right="Smooth";Left="Smooth";Back="Smooth";};
+reflectance=0;color={[1]=163.00000548362732;[2]=162.00000554323196;[3]=165.00000536441803;};
+anchored=false;cancollide=false;transparency=0.9999371767044067;texture="Plastic";position={[1]=67.69735717773438;[2]=20.876768112182617;[3]=189.303955078125;};
+locked=false;cframe={[1]=67.69735717773438;[2]=20.876768112182617;[3]=189.303955078125;[4]=1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=1;};
+shape="Block";size={[1]=5.199999809265137;[2]=1.2999999523162842;[3]=2.5999999046325684;};
+};
+[2]={surface={Top="Smooth";Front="Smooth";Bottom="Smooth";Right="Smooth";Left="Smooth";Back="Smooth";};
+reflectance=0.000028704704163828865;color={[1]=163.00000548362732;[2]=162.00000554323196;[3]=165.00000536441803;};
+anchored=false;cancollide=false;transparency=1;texture="Plastic";position={[1]=67.69674682617188;[2]=20.4206600189209;[3]=188.76287841796875;};
+locked=false;cframe={[1]=67.69674682617188;[2]=20.4206600189209;[3]=188.76287841796875;[4]=1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=1;};
+shape="Block";size={[1]=4;[2]=4.68687629699707;[3]=11.16018295288086;};
+};
+[3]={surface={Top="Studs";Front="Smooth";Bottom="Inlet";Right="Smooth";Left="Smooth";Back="Smooth";};
+reflectance=0;color={[1]=163.00000548362732;[2]=162.00000554323196;[3]=165.00000536441803;};
+anchored=false;cancollide=false;transparency=1;texture="Plastic";position={[1]=67.824462890625;[2]=18.658889770507812;[3]=189.08697509765625;};
+locked=false;cframe={[1]=67.824462890625;[2]=18.658889770507812;[3]=189.08697509765625;[4]=1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=1;};
+shape="Block";size={[1]=2.5999999046325684;[2]=2.5999999046325684;[3]=1.2999999523162842;};
+};
+}
