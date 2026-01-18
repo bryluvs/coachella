@@ -1,0 +1,20 @@
+-- Tralalita Tralala
+return {[1]={surface={Top="Smooth";Front="Smooth";Bottom="Smooth";Right="Smooth";Left="Smooth";Back="Smooth";};
+reflectance=0;color={[1]=163.00000548362732;[2]=162.00000554323196;[3]=165.00000536441803;};
+anchored=false;cancollide=false;transparency=1;texture="Plastic";position={[1]=28.859834671020508;[2]=27.05181121826172;[3]=-3.7536120414733887;};
+locked=false;cframe={[1]=28.859834671020508;[2]=27.05181121826172;[3]=-3.7536120414733887;[4]=-1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=-1;};
+shape="Block";size={[1]=0.8106548190116882;[2]=0.7839826345443726;[3]=0.7458791136741638;};
+};
+[2]={surface={Top="Smooth";Front="Smooth";Bottom="Smooth";Right="Smooth";Left="Smooth";Back="Smooth";};
+reflectance=0;color={[1]=163.00000548362732;[2]=162.00000554323196;[3]=165.00000536441803;};
+anchored=false;cancollide=false;transparency=1;texture="Plastic";position={[1]=28.7880859375;[2]=26.418750762939453;[3]=-4.562779426574707;};
+locked=false;cframe={[1]=28.7880859375;[2]=26.418750762939453;[3]=-4.562779426574707;[4]=-1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=-1;};
+shape="Block";size={[1]=5.9403815269470215;[2]=6.516894340515137;[3]=13.201117515563965;};
+};
+[3]={surface={Top="Studs";Front="Smooth";Bottom="Inlet";Right="Smooth";Left="Smooth";Back="Smooth";};
+reflectance=0;color={[1]=163.00000548362732;[2]=162.00000554323196;[3]=165.00000536441803;};
+anchored=false;cancollide=false;transparency=1;texture="Plastic";position={[1]=28.7880859375;[2]=24.26909828186035;[3]=-4.680607795715332;};
+locked=false;cframe={[1]=28.7880859375;[2]=24.26909828186035;[3]=-4.680607795715332;[4]=1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=1;};
+shape="Block";size={[1]=2.5999999046325684;[2]=2.5999999046325684;[3]=1.2999999523162842;};
+};
+}
